@@ -10,9 +10,9 @@ Covid Busters Video Game implemented with Flutter and Flame.
 
 Tap Covids to Kill Them
 
-![Screenshot1](https://github.com/sciruela/covid_busters/blob/master/screenshots/screenshot1.png)
-![Screenshot2](https://github.com/sciruela/covid_busters/blob/master/screenshots/screenshot2.png)
-![Screenshot3](https://github.com/sciruela/covid_busters/blob/master/screenshots/screenshot3.png)
+![Screenshot1](https://github.com/sciruela/covidbusters/blob/master/screenshots/screenshot1.png)
+![Screenshot2](https://github.com/sciruela/covidbusters/blob/master/screenshots/screenshot2.png)
+![Screenshot3](https://github.com/sciruela/covidbusters/blob/master/screenshots/screenshot3.png)
 
 
 The Music Songs
