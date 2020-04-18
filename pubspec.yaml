@@ -1,0 +1,87 @@
+name: covidbusters
+description: Covid Busters Video Game
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  flame: ^0.10.2
+  flutter_svg: ^0.13.0
+  shared_preferences: ^0.5.6+3
+  path_provider: ^0.4.1
+
+dev_dependencies:
+    flutter_test:
+      sdk: flutter
+
+flutter:
+    uses-material-design: true
+
+    fonts:
+      - family: 'ComicSans'
+        fonts:
+          - asset: assets/fonts/comicsans.ttf
+
+    assets:
+      # Images
+      - assets/images/bg/background.png
+      - assets/images/bg/infected.png
+      - assets/images/splash/title.png
+      - assets/images/ui/dialog-help.png
+      - assets/images/ui/icon-help.png
+      - assets/images/ui/start-button.png
+      - assets/images/ui/icon-music-enabled.png
+      - assets/images/ui/icon-music-disabled.png
+      - assets/images/ui/icon-sound-enabled.png
+      - assets/images/ui/icon-sound-disabled.png
+      - assets/images/covids/covid1-1.png
+      - assets/images/covids/covid1-2.png
+      - assets/images/covids/covid1-dead.png
+      - assets/images/covids/covid2-1.png
+      - assets/images/covids/covid2-2.png
+      - assets/images/covids/covid2-dead.png
+      - assets/images/covids/covid3-1.png
+      - assets/images/covids/covid3-2.png
+      - assets/images/covids/covid3-dead.png
+      - assets/images/covids/covid4-1.png
+      - assets/images/covids/covid4-2.png
+      - assets/images/covids/covid4-dead.png
+      - assets/images/covids/covid5-1.png
+      - assets/images/covids/covid5-2.png
+      - assets/images/covids/covid5-dead.png
+      - assets/images/covids/covid6-1.png
+      - assets/images/covids/covid6-2.png
+      - assets/images/covids/covid6-dead.png
+
+      - assets/audio/bgm/home.mp3
+      - assets/audio/bgm/playing.mp3
+      - assets/audio/sfx/laugh1.ogg
+      - assets/audio/sfx/laugh2.ogg
+      - assets/audio/sfx/laugh3.ogg
+      - assets/audio/sfx/laugh4.ogg
+      - assets/audio/sfx/laugh5.ogg
+      - assets/audio/sfx/laugh6.ogg
+      - assets/audio/sfx/laugh7.ogg
+      - assets/audio/sfx/laugh8.ogg
+      - assets/audio/sfx/laugh9.ogg
+      - assets/audio/sfx/laugh10.ogg
+      - assets/audio/sfx/laugh11.ogg
+      - assets/audio/sfx/laugh12.ogg
+      - assets/audio/sfx/laugh13.ogg
+      - assets/audio/sfx/ouch1.ogg
+      - assets/audio/sfx/ouch2.ogg
+      - assets/audio/sfx/ouch3.ogg
+      - assets/audio/sfx/ouch4.ogg
+      - assets/audio/sfx/ouch5.ogg
+      - assets/audio/sfx/ouch6.ogg
+      - assets/audio/sfx/ouch7.ogg
+      - assets/audio/sfx/ouch8.ogg
+      - assets/audio/sfx/ouch9.ogg
+      - assets/audio/sfx/ouch10.ogg
+      - assets/audio/sfx/ouch11.ogg
+
