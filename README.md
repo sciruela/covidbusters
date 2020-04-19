@@ -15,6 +15,9 @@ Tap Covids to Kill Them
 ![Screenshot3](https://raw.githubusercontent.com/sciruela/covidbusters/master/screenshots/screenshot3.png)
 
 
+[![Download](http://codekiem.com/wp-content/uploads/2012/02/apk-big.png)](https://raw.githubusercontent.com/sciruela/covidbusters/master/apk/app-release.apk)
+
+
 The Music Songs
 - [Ketsa Day Trips Album Raising Frequency](https://files.freemusicarchive.org/storage-freemusicarchive-org/music/Creative_Commons/Ketsa/Raising_Frequecy/Ketsa_-_06_-_Day_Trips.mp3)
 - [Metre Digital Savanna Album Motif](https://files.freemusicarchive.org/storage-freemusicarchive-org/music/Nul_Tiel_Records/Metre/Motif/Metre_-_02_-_Digital_Savanna.mp3)
