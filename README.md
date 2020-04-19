@@ -14,6 +14,8 @@ Tap Covids to Kill Them
 ![Screenshot2](https://raw.githubusercontent.com/sciruela/covidbusters/master/screenshots/screenshot2.png)
 ![Screenshot3](https://raw.githubusercontent.com/sciruela/covidbusters/master/screenshots/screenshot3.png)
 
+[![Youtube](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)](https://www.youtube.com/watch?v=NgBzPYq2wcQ)
+
 
 [![Download](http://codekiem.com/wp-content/uploads/2012/02/apk-big.png)](https://raw.githubusercontent.com/sciruela/covidbusters/master/apk/app-release.apk)
 
