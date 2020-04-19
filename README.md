@@ -2,9 +2,11 @@
 
 [![License: MIT](https://img.shields.io/github/license/impulse/flutters.svg)](https://opensource.org/licenses/MIT)
 [![Powered by Flame](https://img.shields.io/badge/Powered%20by-%F0%9F%94%A5-orange.svg)](https://flame-engine.org)
-<img alt="GitHub top language" src="https://img.shields.io/badge/Made%20with-Flutter-blue.svg">
+[![Madre with Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue.svg)](https://flutter.dev/)
 
-# covidbusters
+# Covid Busters
+
+Tap all Covids to exterminate them. Avoid failing because then they will win
 
 Covid Busters Video Game implemented with Flutter and Flame.
 
