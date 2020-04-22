@@ -11,10 +11,10 @@ Tap all Covids to exterminate them. Avoid failing because then they will win
 Covid Busters Video Game implemented with Flutter and Flame.
 
 Tap Covids to Kill Them
-
+<!--
 ![Screenshot1](https://raw.githubusercontent.com/sciruela/covidbusters/master/screenshots/screenshot1.png)
 ![Screenshot2](https://raw.githubusercontent.com/sciruela/covidbusters/master/screenshots/screenshot2.png)
-![Screenshot3](https://raw.githubusercontent.com/sciruela/covidbusters/master/screenshots/screenshot3.png)
+![Screenshot3](https://raw.githubusercontent.com/sciruela/covidbusters/master/screenshots/screenshot3.png) -->
 
 ![Video](https://raw.githubusercontent.com/sciruela/covidbusters/master/videos/covidbusters.gif)
 
